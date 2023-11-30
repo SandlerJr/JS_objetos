@@ -3,8 +3,6 @@
 <h2>Descrição:</h2>
   <p>Este curso é para entender melhor sobre o JavaScript e como usá-lo na parte back-end do desenvolvimento. Servirá como um material de consulta para caso de duvidas nos nos proximos projetos, ajudando assim o desenvolvimento das habilidades de programador </p>
 
-Teste
-
 <h2>Teccnologias usadas:</h2>
   <p> - JavaScript;</p>
   <p> - Node.JS;</p>

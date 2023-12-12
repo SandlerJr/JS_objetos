@@ -12,7 +12,7 @@ cliente.enderecos = [
         apartamento: true,
         complemento: "apto. 934",
     }
-]
+];
 
 cliente.enderecos.push(
     {
@@ -20,7 +20,10 @@ cliente.enderecos.push(
         numero: 337,
         apartamento: false,
     }
-)
+);
 
-console.log(cliente.enderecos);
+const listaApartamentos = cliente.enderecos.filter(
+    (endereco) => endereco.apartamento === true
+);
 
+console.log(listaApartamentos);
